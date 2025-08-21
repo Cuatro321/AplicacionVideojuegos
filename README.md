@@ -1,5 +1,6 @@
 # AplicacionVideojuegos
 Repositorio Contenedor App "CuatroGames"
+Pages y App principal 
 
 comandos ejecucion en Android transformar APK
 npm run build 
